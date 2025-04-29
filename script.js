@@ -213,4 +213,12 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 2000);
         }, 1500);
     });
+
+    const aumentaFonte = document.getElementsByid('aumentar -fonte');
+    const aumentaFonte = document.getElementsByid('aumentar -fonte');
+
+
+    let tamanhoAtualFonte = 1;
+
+    aumentarFonteBotao.addEventListener('clik , ')
 });
